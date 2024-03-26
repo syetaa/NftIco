@@ -1,0 +1,8 @@
+.textmain{
+    display: flex;
+    justify-content: space-between;
+}
+.hr{
+    margin: 50px 0;
+    border: 1px solid rgb(231, 231, 231, 0.24);
+}

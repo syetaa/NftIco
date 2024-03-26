@@ -1,0 +1,96 @@
+.nfts{
+    font-size: 96px;
+    line-height: 50%;
+    font-weight: 800;
+    background: linear-gradient(45deg, rgba(5,0,250,1) 0%, rgba(224,30,90,1) 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.textmain{
+    padding: 220px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 60px;
+    user-select: none;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text2{
+    font-size: 44px;
+    font-weight: 500;
+    color: #fff;
+}
+.cont{
+    display: flex;
+    column-gap: 32px;
+    
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+}
+.card2{
+    padding: 28px;
+    background: #1E1B33;
+    border-radius: 8px;
+    display: flex;
+    column-gap: 24px;
+}
+
+.card_text{
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+}
+.cont1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cont2{
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+    white-space: pre;
+}
+.cont3{
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+}
+.a1 a,.a2 a{
+    padding: 8px 24px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    background: linear-gradient(90deg, rgba(5,0,250,1) 0%, rgba(224,30,90,1) 100%);
+}
+.a3{
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+}
+.cont_text1{
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+}
+.cont_text2{
+    font-size: 16px;
+    font-weight: 400;
+    color: #C0C0C0;
+}
+@media (max-width: 1270) {
+    .card_img{
+        display: block;
+    }
+}

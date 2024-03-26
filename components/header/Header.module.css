@@ -1,0 +1,48 @@
+.textmain{
+    background: #04011C;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 140px;
+}
+.links{
+    display: flex;
+    column-gap: 36px;
+}
+.links a{
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+.links a:hover{
+    transform: scale(1.1);
+}
+
+.inp1{
+    background: #1E1B33;
+    width: 185px;
+    height: 35px;
+    border: 1px solid rgba(231, 231, 231, 0.4);
+    border-radius: 8px;
+   
+}
+.inp1::placeholder{
+    padding-left: 10px;
+}
+.btns{
+    display: flex;
+    column-gap: 20px;
+}
+.get{
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    padding: 10px 20px;
+    background: linear-gradient(45deg, rgba(5,0,250,1) 0%, rgba(224,30,90,1) 100%);
+    border-radius: 8px;
+}
+.get:hover{
+
+    transform: scale(1.05);
+}

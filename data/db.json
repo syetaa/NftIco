@@ -1,0 +1,32 @@
+{
+    "items": [
+      {
+         "id":1,
+         "img": "/public/Nft_pic1.png",
+         "title": "Venture Capitalist",
+         "author": "Highest bid",
+         "price": 2.835
+      },
+      {
+        "id":2,
+        "img": "/public/Nft_pic1.png",
+        "title": "Venture Capitalist",
+        "author": "Highest bid",
+        "price": 2.835
+     },
+     {
+        "id":3,
+        "img": "/public/Nft_pic1.png",
+        "title": "Venture Capitalist",
+        "author": "Highest bid",
+        "price": 2.835
+     },
+     {
+        "id":4,
+        "img": "/public/Nft_pic1.png",
+        "title": "Venture Capitalist",
+        "author": "Highest bid",
+        "price": 2.835
+     }
+   ]
+  }
