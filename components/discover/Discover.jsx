@@ -5,7 +5,7 @@ import { FaPlay } from "react-icons/fa6";
 
 const Discover = () => {
     return(
-        <div>
+        <div id="homepage">
             <div className={styles.textmain}>
                 <div className={styles.text0}>
                     <div className={styles.text1}>
@@ -15,8 +15,8 @@ const Discover = () => {
                         Our marketplace is the world’s first and largest NFT<br/> market for independent creators worldwide           
                     </div>
                     <div className={styles.text3}>
-                        <a className={styles.btn1} href="#">Explore</a>
-                        <a className={styles.btn2} href="#">Create</a>
+                        <a className={styles.btn1} href="#homepage">Explore</a>
+                        <a className={styles.btn2} href="#homepage">Create</a>
                     </div>
                     <div className={styles.text4}>
                         <FaPlay color="#fff"/> Learn more about Nftico

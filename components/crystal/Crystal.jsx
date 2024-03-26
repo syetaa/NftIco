@@ -19,7 +19,7 @@ const Crystal = () => {
                         </div>
                     </div>
                     <div className={styles.text3}>
-                        <a href="#">Connect Wallet</a>
+                        <a href="#homepage">Connect Wallet</a>
                     </div>
                 </div>
             </div>

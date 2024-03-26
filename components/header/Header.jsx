@@ -17,7 +17,7 @@ const Header = () => {
                 </div>
                 <div className={styles.btns}>
                     <input className={styles.inp1} placeholder="Search..."/>
-                    <a className={styles.get} href="#">Get in Touch</a>
+                    <a className={styles.get} href="#homepage">Get in Touch</a>
                 </div>
             </div>
             

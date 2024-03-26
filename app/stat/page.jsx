@@ -16,7 +16,7 @@ export default function Stat() {
     <div>
         <div className={styles.textmain}>
             <Trending/>
-            <Carousel/>
+            {/* <Carousel/> */}
             <Resources/>
             
         </div>

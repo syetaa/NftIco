@@ -13,13 +13,13 @@ import { FaArrowRight } from "react-icons/fa";
 
 function Carousel() {
 
-  const renderNextButton = ({ isDisabled }) => {
-    return <FaArrowRight size={30} color='#e7ebee66' className={styles.next_btn}/>;
-  };
+  // const renderNextButton = ({ isDisabled }) => {
+  //   return <FaArrowRight size={30} color='#e7ebee66' className={styles.next_btn}/>;
+  // };
 
-  const renderPrevButton = ({ isDisabled }) => {
-    return <FaArrowLeft size={30} color='#e7ebee66' className={styles.prev_btn}/>;
-  };
+  // const renderPrevButton = ({ isDisabled }) => {
+  //   return <FaArrowLeft size={30} color='#e7ebee66' className={styles.prev_btn}/>;
+  // };
 
 
 
