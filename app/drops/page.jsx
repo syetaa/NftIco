@@ -11,7 +11,7 @@ export default function Drops() {
     <div>
         <div className={styles.textmain}>
           <Notabledrops/>
-          {/* <Carousel2/> */}
+          <Carousel2/>
           <Collections/>
           <Collections_cards/>
           <SeeAll/>
