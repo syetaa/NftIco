@@ -7,7 +7,7 @@ const Crystal = () => {
         <div>
             <div className={styles.textmain}>
                 <div className={styles.cont1}>
-                    <Image src="/home5-s-2- 1.png" width={466} height={486} alt="img_home"/>
+                    <Image src="/home5-s-2-1.png" width={466} height={486} alt="img_home"/>
                 </div>
                 <div className={styles.cont2}>
                     <div className={styles.cont3}>
