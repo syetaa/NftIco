@@ -38,7 +38,7 @@ function Carousel2() {
 
    //The carousel items 
    const items = [
-        <div className={styles.item}>
+        <div key={1} className={styles.item}>
           <div className={styles.card}>
             <div className={styles.img}>
                <Image src="/carousel_drops_img1.png" width={264} height={232} alt="img1" />
@@ -69,7 +69,7 @@ function Carousel2() {
           </div>
         </div>,
 
-        <div className={styles.item}>
+        <div key={2} className={styles.item}>
           <div className={styles.card}>
             <div className={styles.img}>
               <Image src="/carousel_drops_img2.png" width={264} height={232} alt="img1" />
@@ -100,7 +100,7 @@ function Carousel2() {
           </div>
         </div>,
         
-        <div className={styles.item}>
+        <div key={3} className={styles.item}>
           <div className={styles.card}>
             <div className={styles.img}>
                <Image src="/carousel_drops_img3.png" width={264} height={232} alt="img1" />
@@ -131,7 +131,7 @@ function Carousel2() {
           </div>
         </div>,
 
-        <div className={styles.item}>
+        <div key={4} className={styles.item}>
           <div className={styles.card}>
             <div className={styles.img}>
               <Image src="/carousel_drops_img4.png" width={264} height={232} alt="img1" />

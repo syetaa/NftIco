@@ -36,7 +36,7 @@ function Carousel() {
 
    //The carousel items 
    const items = [
-       <div className={styles.item}>
+       <div key={1} className={styles.item}>
           <div className={styles.card_cont}>
          <div className={styles.card}>
            <div className={styles.img}>
@@ -70,7 +70,7 @@ function Carousel() {
            
        </div>,
 
-      <div className={styles.item}>
+      <div key={2} className={styles.item}>
         <div className={styles.card}>
             <div className={styles.img}>
                 <Image src="/Nft_pic2.png" width={264} height={232} alt="img1" />
@@ -101,7 +101,7 @@ function Carousel() {
         </div>
       </div>,
 
-      <div className={styles.item}>
+      <div key={3} className={styles.item}>
         <div className={styles.card}>
             <div className={styles.img}>
                 <Image src="/Nft_pic3.png" width={264} height={232} alt="img1" />
@@ -132,7 +132,7 @@ function Carousel() {
         </div>
       </div>,
 
-      <div className={styles.item}>
+      <div key={4} className={styles.item}>
         <div className={styles.card}>
         <div className={styles.img}>
             <Image src="/Nft_pic4.png" width={264} height={232} alt="img1" />
@@ -163,7 +163,7 @@ function Carousel() {
         </div>
       </div>,
 
-      <div className={styles.item}>
+      <div key={5} className={styles.item}>
         <div className={styles.card}>
             <div className={styles.img}>
                 <Image src="/Nft_pic2.png" width={264} height={232} alt="img1" />
