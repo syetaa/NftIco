@@ -14,7 +14,7 @@ const Tabes = () => {
                     <div className={styles.card}>
                         <div className={styles.card_body}>
                             <div className={styles.img}>
-                                <Image src="/card_img1.png" width={264} height={232} alt="card img 1"/>
+                                <Image src="/Card_img1.png" width={264} height={232} alt="card img 1"/>
                             </div>
                             <div className={styles.text}>
                                 Election Season
@@ -38,7 +38,7 @@ const Tabes = () => {
                     <div className={styles.card}>
                         <div className={styles.card_body}>
                             <div className={styles.img}>
-                                <Image src="/card_img2.png" width={264} height={232} alt="card img 1"/>
+                                <Image src="/Card_img2.png" width={264} height={232} alt="card img 1"/>
                             </div>
                             <div className={styles.text}>
                                 Election Season
@@ -65,7 +65,7 @@ const Tabes = () => {
                     <div className={styles.card}>
                         <div className={styles.card_body}>
                             <div className={styles.img}>
-                                <Image src="/card_img3.png" width={264} height={232} alt="card img 1"/>
+                                <Image src="/Card_img3.png" width={264} height={232} alt="card img 1"/>
                             </div>
                             <div className={styles.text}>
                                 Election Season
@@ -89,7 +89,7 @@ const Tabes = () => {
                     <div className={styles.card}>
                         <div className={styles.card_body}>
                             <div className={styles.img}>
-                                <Image src="/card_img4.png" width={264} height={232} alt="card img 1"/>
+                                <Image src="/Card_img4.png" width={264} height={232} alt="card img 1"/>
                             </div>
                             <div className={styles.text}>
                                 Election Season
