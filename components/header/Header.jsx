@@ -13,7 +13,7 @@ const Header = () => {
                 <div className={styles.links}>
                     <Link href="/">Explore</Link>
                     <Link href="/stat">Stats</Link>
-                    <Link href="/drops">Drops</Link>
+                    <Link href="/drops">Drops ы </Link>
                 </div>
                 <div className={styles.btns}>
                     <input className={styles.inp1} placeholder="Search ..."/>
