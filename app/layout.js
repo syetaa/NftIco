@@ -14,7 +14,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <head><meta name="yandex-verification" content="7ee43b0e6154a194" /></head>
+      <head><meta name="yandex-verification" content="d6b4c98955dd18ec" /></head>
       <body className={outfit.className}>
         <Header className="header"/>
         <main className="main">
